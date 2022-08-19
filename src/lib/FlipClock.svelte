@@ -115,6 +115,8 @@
       background: var(--flip-clock-background-color);
       padding: 0.125em 0.25em;
       margin: 0;
+      width: 2ch;
+      text-align: center;
     }
     .top {
       border-radius: 0.25em 0.25em 0 0;
